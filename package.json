@@ -4,7 +4,8 @@
   "description": "App that allows users to list burger names. Burgers appear on the left hand side of the page, with a devour button that moves them to the right hand side of the page.",
   "main": "index.js",
   "scripts": {
-    "test": "node server.js"
+    "test": "node server.js",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
